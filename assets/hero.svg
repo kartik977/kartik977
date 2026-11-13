@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="Kartik Kataria — Senior Software Engineer">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090d22"/><stop offset=".55" stop-color="#161637"/><stop offset="1" stop-color="#062438"/></linearGradient>
+<linearGradient id="grad" x2="1" y2="0"><stop stop-color="#f6f7ff"/><stop offset=".7" stop-color="#c4b5fd"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<linearGradient id="acc" x2="1" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9db3d4" opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+<circle cx="1040" cy="82" r="155" fill="#6d28d9" opacity=".13"/>
+<rect x="1" y="1" width="1198" height="388" rx="21" fill="none" stroke="#6576b8" opacity=".33"/>
+<circle cx="70" cy="59" r="7" fill="#22d3ee"/>
+<text x="90" y="65" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3.1" fill="#a8b4d6">HELLO, WORLD / I'M</text>
+<text x="64" y="166" font-family="Segoe UI,Arial,sans-serif" font-size="73" font-weight="800" letter-spacing="-3" fill="url(#grad)">KARTIK KATARIA</text>
+<rect x="66" y="190" width="88" height="5" rx="2" fill="url(#acc)"/>
+<text x="66" y="244" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#e1e8fe">Senior Software Engineer</text>
+<text x="66" y="280" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#a5b5d6">Backend systems  /  Cloud engineering  /  AI products</text>
+<rect x="65" y="318" width="229" height="39" rx="19" fill="#18294e" stroke="#3e5890"/>
+<circle cx="87" cy="338" r="5" fill="#34d399"/><text x="103" y="343" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#d9f9ed">BUILD  •  SHIP  •  SCALE</text>
+<g transform="translate(824 57)">
+<rect width="315" height="256" rx="16" fill="#0c142d" stroke="#4866a2"/>
+<path d="M16 0 H299 Q315 0 315 16 V40 H0 V16 Q0 0 16 0" fill="#1b2446"/>
+<circle cx="23" cy="20" r="5" fill="#ef6c78"/><circle cx="41" cy="20" r="5" fill="#f5bd60"/><circle cx="59" cy="20" r="5" fill="#48c79b"/>
+<text x="91" y="25" font-family="monospace" font-size="13" fill="#b0c2e6">engineer.ts</text>
+<g font-family="monospace" font-size="15">
+<text x="20" y="80" fill="#8091bd">01</text><text x="55" y="80" fill="#a5b4fc">const</text><text x="113" y="80" fill="#eff2ff">focus = {</text>
+<text x="20" y="113" fill="#8091bd">02</text><text x="74" y="113" fill="#79e4ea">quality:</text><text x="166" y="113" fill="#d6bcfa">"always",</text>
+<text x="20" y="146" fill="#8091bd">03</text><text x="74" y="146" fill="#79e4ea">systems:</text><text x="176" y="146" fill="#d6bcfa">"scale",</text>
+<text x="20" y="179" fill="#8091bd">04</text><text x="74" y="179" fill="#79e4ea">ideas:</text><text x="144" y="179" fill="#d6bcfa">"build"</text>
+<text x="20" y="212" fill="#8091bd">05</text><text x="56" y="212" fill="#eff2ff">};</text>
+</g><rect x="22" y="230" width="46" height="3" rx="2" fill="#22d3ee"/>
+</g></svg>
